@@ -30,6 +30,8 @@ One of the things i learned off the course was the use of Machine learning algor
 Here is a break down of how the analysis went
 
 Programming langauge: Python
+
 Platform: Jupyter Notebook
+
 
 
