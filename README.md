@@ -24,12 +24,13 @@ Cervical cancer kills 4000 women in the US and 300,000 women worldwide!. However
 Early detection indeed counts!
 
 
-Shortly after my appointmnet i began one for my summer elective, which was Introduction to R programming langauge. 
-One of the things i learned off the course was the use of Machine learning algorithms(Decisio tree and random forest) for prediction. I went researching and found a Machine learning course on coursera on Cervical cancer, what are the odds!
+Shortly after my appointmnet i began my summer elective, which was a refresher course " Introduction to R programming langauge". 
+
+One of the things i learned off the course was the use of Machine learning algorithms(Decision tree and random forest) for prediction. I went researching and found a Machine learning course on coursera on Cervical cancer, what are the odds!
 
 Here is a break down of how the analysis went
 
-Programming langauge: Python
+Programming langauge: R programming
 
 Platform: Jupyter Notebook
 
