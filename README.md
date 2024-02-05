@@ -1,7 +1,7 @@
 # Cervical_Cancer_Prediction
 ![iamge_1](./images/picture2.jpg)
 
-Cervical Cancer Prediction Using Machine Learning Algorithm (XGBOOST)
+## Cervical Cancer Prediction Using Machine Learning Algorithm (XGBOOST)
 
 
 
@@ -9,9 +9,12 @@ Cervical Cancer Prediction Using Machine Learning Algorithm (XGBOOST)
 
 In May 2023, i went for my usual yearly checkup at the hospital and i was advised to schedule for a Pap test. I was confused initally!?
 
+![iamge_1](./images/picture3.jpg)
+
 # What is a Pap test?
 
 A Pap test, also known as a Pap smear or cervical cytology, is a screening test used to detect abnormal cells in the cervix, the lower part of the uterus that connects to the vagina. The test is primarily conducted to identify early signs of cervical cancer or precancerous conditions
+
 
 My appointment was schedule in June and yes! it went smoothly.
 
@@ -23,3 +26,10 @@ Early detection indeed counts!
 
 Shortly after my appointmnet i began one for my summer elective, which was Introduction to R programming langauge. 
 One of the things i learned off the course was the use of Machine learning algorithms(Decisio tree and random forest) for prediction. I went researching and found a Machine learning course on coursera on Cervical cancer, what are the odds!
+
+Here is a break down of how the analysis went
+
+Programming langauge: Python
+Platform: Jupyter Notebook
+
+
