@@ -1,7 +1,5 @@
-# Cervical_Cancer_Prediction
+# Cervical Cancer Prediction Using Machine Learning Algorithm (XGBOOST)
 ![iamge_1](./images/picture2.jpg)
-
-## Cervical Cancer Prediction Using Machine Learning Algorithm (XGBOOST)
 
 
 
