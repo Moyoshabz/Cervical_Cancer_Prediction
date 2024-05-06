@@ -35,6 +35,9 @@ Environment: Jupyter Notebook
 
 Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_Cancer_Prediction/main/cervical_cancer.csv)
 
+[Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_Cancer_Prediction/main/cervical_cancer.csv){:target="_blank" download}
+
+
 ## Exploratory Data Analysis (EDA)
 
 
