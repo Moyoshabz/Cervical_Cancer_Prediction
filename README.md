@@ -58,7 +58,7 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 ![iamge_1](./images/data11.png)
 
 
-Next is to identify Null values in the dataset
+### Next is to identify Null values in the dataset
 
 ![iamge_1](./images/data12.png)
 
@@ -95,5 +95,17 @@ Next is to identify Null values in the dataset
 
 ![iamge_1](./images/data15.png)
 
+# Data Cleaning usinf Mean imputation
+
+### Replace null values with mean
+
+![iamge_1](./images/data16.png)
+
+### After mean imputation visulaize the dataset using a heatmap to identify if the imputation worked
+
+![iamge_1](./images/data7.png)
 
 
+# Answer Questions with the dataset on Canncer predicton
+
+![iamge_1](./images/ask.jpg)
