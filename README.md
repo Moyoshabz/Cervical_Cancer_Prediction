@@ -28,8 +28,8 @@ One of the things i learned off the course was the use of Machine learning algor
 
 Here is a break down of how the analysis went
 
-Programming langauge: Jupyter Notebook
-
+Programming langaug: Python
+Environment: Jupyter Notebook
 Dataset: cervical_cancer.csv 
 
 
