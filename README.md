@@ -104,6 +104,6 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 ![iamge_1](./images/data7.png)
 
 
-# Answer Questions with the dataset on Canncer predicton
+# Answer Questions with the dataset on Cancer predicton
 
 ![iamge_1](./images/ask.jpg)
