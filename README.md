@@ -38,11 +38,11 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ## Exploratory Data Analysis (EDA)
 
-![iamge_1](./images/data1.jpg)
+![iamge_1](./images/data1.png)
 
-![iamge_1](./images/data4.jpg)
+![iamge_1](./images/data4.png)
 
-![iamge_1](./images/data5.jpg)
+![iamge_1](./images/data5.png)
 
 
 
