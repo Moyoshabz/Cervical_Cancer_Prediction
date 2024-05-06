@@ -51,9 +51,9 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ![iamge_1](./images/data10.png)
 
-## Observation: They are instances of *?* in some of the columns auch as First Sexual Intercourse and STD Time
+## Observation: They are instances of *?* in some of the columns such as First Sexual Intercourse and STD Time
 
-## Action: Replacing every instance of *?* with nan, to avoid skewness during the anlysis and prediction phase
+## Action: Replacing every instance of *?* with nan, to avoid skewness during the analysis and prediction phase
 
 ![iamge_1](./images/data11.png)
 
@@ -85,7 +85,7 @@ Next is to identify Null values in the dataset
 ![iamge_1](./images/data14.png)
 
 
-## Observation: After converting the datatype to float, we can see a differences in the initial Statistic during EDA and after rectifying the datatype
+## Observation: After converting the datatype to float, we can see a differences in the Statistic before and after rectifying the datatype
 
 ### Old Statistics
 
