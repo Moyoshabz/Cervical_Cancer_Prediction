@@ -47,8 +47,34 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ## Data Cleaning Process before Analysis and Prediction
 
+# Identifying missing values
+
+![iamge_1](./images/data10.png)
+
+Observation: They are instances of *?* in some of the columns auch as First Sexual Intercourse and STD Time
+
+Action: Replacing every instance of *?* with nan, to avoid skewness during the anlysis and prediction phase
+
+![iamge_1](./images/data11.png)
 
 
+Next is to identify Null values in the dataset
+
+![iamge_1](./images/data12.png)
+
+
+Action: Using a Viualization such as a Heatmap can help identify null values 
+
+![iamge_1](./images/data6.png)
+
+It is observed from that line of code that 2 colums have a lot of null values. This columns are STDS:Time since first diagnosis and time since lst dignosis
+
+Action: The best strategy is to drop that columns so it doesn't skew our analysis
+
+![iamge_1](./images/data13.png)
+
+
+# Understanding the data type
 
 
 
