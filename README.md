@@ -95,9 +95,7 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ![iamge_1](./images/data15.png)
 
-# Data Cleaning usinf Mean imputation
-
-### Replace null values with mean
+## Data Cleaning using Mean imputation
 
 ![iamge_1](./images/data16.png)
 
