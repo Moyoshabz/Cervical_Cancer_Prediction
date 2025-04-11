@@ -28,8 +28,8 @@ One of the things i learned off the course was the use of Machine learning algor
 
 Here is a break down of how the analysis went
 
-Programming langaug: Python
-Environment: Jupyter Notebook
+Programming langauge: Python
+Environment: Jupyter Notebook/Google Colab
 
 
 
@@ -95,7 +95,7 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ![iamge_1](./images/data15.png)
 
-## Data Cleaning using Mean imputation
+## Data Cleaning using Median imputation
 
 ![iamge_1](./images/data16.png)
 
@@ -103,7 +103,24 @@ Dataset:  [Download File](https://raw.githubusercontent.com/Moyoshabz/Cervical_C
 
 ![iamge_1](./images/data7.png)
 
+# Prediction using XGBOOST
+`!pip install xgboost`
 
-# Answer Questions with the dataset on Cancer predicton
+`import xgboost as xgb`
 
-![iamge_1](./images/ask.jpg)
+`model = xgb.XGBClassifier(learning_rate = 0.1, max_depth = 5, n_estimators = 10)`
+
+`model.fit(X_train, y_train)`
+
+`result_train = model.score(X_train, y_train)`
+
+`result_train`
+
+`# predict the score of the trained model using the testing dataset`
+
+`result_test = model.score(X_test, y_test)`
+
+`result_test`
+
+`# Predict on test data`
+`y_predict = model.predict(X_test)`
